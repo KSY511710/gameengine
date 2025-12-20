@@ -14,7 +14,7 @@ The player must strategically swap colors to destroy obstacles, manage stamina, 
 
 1. Download and extract the game files (`.zip`).
 2. Navigate to the extracted folder.
-3. Double-click **`SmashColor.exe`** to launch the game.
+3. Double-click **`Finalproject_2025_2.exe`** to launch the game.
    > **Note:** No internet connection is required to play.
 
 ## 🎮 Controls
